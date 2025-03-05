@@ -1,0 +1,920 @@
+{
+    "state": {
+        "DoorModelId": 3582487,
+        "DoorFramelId": 14430034,
+        "DoorEyeId": null,
+        "DoorHandleId": 15929559,
+        "DoorLockId": 12359247,
+        "LabyId": 5,
+        "DoorKnockerId": null,
+        "Laby3D": {
+            "id": 5,
+            "name": "Concrete",
+            "price": null,
+            "image": {
+                "name": "concrete",
+                "size": 7000,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/364/01JN121RD770797VJB9GV25ZVT.webp"
+            },
+            "glb_file": {
+                "name": "lobby02_01",
+                "size": 587320,
+                "mime_type": "model/gltf-binary",
+                "url": "https://backdoor.storage.c2.liara.space/312/01JME8Y78FG3W2261KT4WR0HF0.glb"
+            },
+            "ao_file": null,
+            "objects": []
+        },
+        "DoorModel3D": {
+            "name": "AX-9015",
+            "price": 0,
+            "image": {
+                "name": "ax_9009_icon copy",
+                "size": 8260,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/123/01JK4B3YYF86DEMJ6K751ARNES.webp"
+            },
+            "glb_file": {
+                "name": "ax_9009_l",
+                "size": 416904,
+                "mime_type": "model/gltf-binary",
+                "url": "https://backdoor.storage.c2.liara.space/124/01JK4B3Z0MNXH3T77EAYNWCF0W.glb"
+            },
+            "ao_file": {
+                "name": "ax_9009_ao copy",
+                "size": 234146,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/125/01JK4B3Z1Z8SRAQFYAE9331P5N.webp"
+            },
+            "id": 3582487,
+            "objects": [
+                {
+                    "id": 53,
+                    "name": "object_1",
+                    "material_category_id": 9740762,
+                    "default_material_id": 12359235,
+                    "material_category": {
+                        "id": 9740762,
+                        "name": "روکش رنگی",
+                        "materials": [
+                            {
+                                "id": 12359218,
+                                "name": "طوسی",
+                                "price": 10000,
+                                "color": "8c8c8a",
+                                "image": {
+                                    "name": "طوسی",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/11/01JK03VWNCKE2ZE1Q1166TF40S.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359219,
+                                "name": "S4",
+                                "price": 10000,
+                                "color": "575a4f",
+                                "image": {
+                                    "name": "S4",
+                                    "size": 348,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/12/01JK040W138NTQ80JYJ6XSMK99.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359228,
+                                "name": "S1",
+                                "price": 10000,
+                                "color": "181e1c",
+                                "image": {
+                                    "name": "S1",
+                                    "size": 354,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/13/01JK041JFR41S4QD2H38F7DESG.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359235,
+                                "name": "مشکی مات اونلو",
+                                "price": 10000,
+                                "color": "161616",
+                                "image": {
+                                    "name": "مشکی مات اونلو",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/14/01JK0423JPQES1K4QJK3F9PGBN.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.00",
+                                "roughness": "0.50"
+                            },
+                            {
+                                "id": 12359237,
+                                "name": "نوک مدادی",
+                                "price": 10000,
+                                "color": "424242",
+                                "image": {
+                                    "name": "نوک مدادی",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/15/01JK042G0PKGM3ZQ7AG17SNNTW.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359238,
+                                "name": "S3",
+                                "price": 10000,
+                                "color": "272825",
+                                "image": {
+                                    "name": "S3",
+                                    "size": 348,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/16/01JK04T1G2DMGBVJKVD4N07M1X.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359239,
+                                "name": "S5",
+                                "price": 10000,
+                                "color": "b3aa97",
+                                "image": {
+                                    "name": "S5",
+                                    "size": 368,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/17/01JK04TARTKW0H5VSM93035PCC.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359250,
+                                "name": "سفید مات",
+                                "price": 10000,
+                                "color": "bbbbbb",
+                                "image": {
+                                    "name": "سفید مات",
+                                    "size": 350,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/18/01JK04TQGKARZCTZYSKCF9YN0Y.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929550,
+                                "name": "x1",
+                                "price": 0,
+                                "color": "283037",
+                                "image": {
+                                    "name": "X1",
+                                    "size": 360,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/20/01JK050VSHPVQ1GB12DQ95Y4V2.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929551,
+                                "name": "X2",
+                                "price": 0,
+                                "color": "30333b",
+                                "image": {
+                                    "name": "X2",
+                                    "size": 360,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/21/01JK052RBTRWQTA80WHVFWWNME.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929552,
+                                "name": "X3",
+                                "price": 0,
+                                "color": "333752",
+                                "image": {
+                                    "name": "X3",
+                                    "size": 356,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/22/01JK053ZKNPT5JMEESFG5E0KE0.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929553,
+                                "name": "X4",
+                                "price": 0,
+                                "color": "2e343d",
+                                "image": {
+                                    "name": "X4",
+                                    "size": 362,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/23/01JK055DV6C1E4HPRGKY7ERF56.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929554,
+                                "name": "X5",
+                                "price": 0,
+                                "color": "4c5d61",
+                                "image": {
+                                    "name": "X5",
+                                    "size": 362,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/24/01JK056H27SPENZXBHM955CRZB.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.10"
+                            }
+                        ]
+                    },
+                    "default_material": {
+                        "id": 12359235,
+                        "name": "مشکی مات اونلو",
+                        "price": 10000,
+                        "color": "161616",
+                        "image": {
+                            "name": "مشکی مات اونلو",
+                            "size": 346,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/14/01JK0423JPQES1K4QJK3F9PGBN.webp"
+                        },
+                        "map": null,
+                        "metalness": "0.00",
+                        "roughness": "0.50"
+                    }
+                }
+            ]
+        },
+        "DoorFrame3D": {
+            "name": "frame_ext_09",
+            "price": 0,
+            "image": {
+                "name": "frame_ext_08_icon",
+                "size": 2684,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/63/01JK0NCJDXPRR6EGFDDHSAJC9A.webp"
+            },
+            "glb_file": {
+                "name": "frame_ext_08_l",
+                "size": 18432,
+                "mime_type": "model/gltf-binary",
+                "url": "https://backdoor.storage.c2.liara.space/64/01JK0NCJGJJQ3EKKPBQ00HJ05X.glb"
+            },
+            "ao_file": {
+                "name": "frame_ext_08_ao",
+                "size": 45752,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/65/01JK0NCJHX122Z7C1CEH85DJNQ.webp"
+            },
+            "id": 14430034,
+            "objects": [
+                {
+                    "id": 4,
+                    "name": "object_1",
+                    "material_category_id": 9740762,
+                    "default_material_id": 12359235,
+                    "material_category": {
+                        "id": 9740762,
+                        "name": "روکش رنگی",
+                        "materials": [
+                            {
+                                "id": 12359218,
+                                "name": "طوسی",
+                                "price": 10000,
+                                "color": "8c8c8a",
+                                "image": {
+                                    "name": "طوسی",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/11/01JK03VWNCKE2ZE1Q1166TF40S.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359219,
+                                "name": "S4",
+                                "price": 10000,
+                                "color": "575a4f",
+                                "image": {
+                                    "name": "S4",
+                                    "size": 348,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/12/01JK040W138NTQ80JYJ6XSMK99.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359228,
+                                "name": "S1",
+                                "price": 10000,
+                                "color": "181e1c",
+                                "image": {
+                                    "name": "S1",
+                                    "size": 354,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/13/01JK041JFR41S4QD2H38F7DESG.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359235,
+                                "name": "مشکی مات اونلو",
+                                "price": 10000,
+                                "color": "161616",
+                                "image": {
+                                    "name": "مشکی مات اونلو",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/14/01JK0423JPQES1K4QJK3F9PGBN.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.00",
+                                "roughness": "0.50"
+                            },
+                            {
+                                "id": 12359237,
+                                "name": "نوک مدادی",
+                                "price": 10000,
+                                "color": "424242",
+                                "image": {
+                                    "name": "نوک مدادی",
+                                    "size": 346,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/15/01JK042G0PKGM3ZQ7AG17SNNTW.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359238,
+                                "name": "S3",
+                                "price": 10000,
+                                "color": "272825",
+                                "image": {
+                                    "name": "S3",
+                                    "size": 348,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/16/01JK04T1G2DMGBVJKVD4N07M1X.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359239,
+                                "name": "S5",
+                                "price": 10000,
+                                "color": "b3aa97",
+                                "image": {
+                                    "name": "S5",
+                                    "size": 368,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/17/01JK04TARTKW0H5VSM93035PCC.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 12359250,
+                                "name": "سفید مات",
+                                "price": 10000,
+                                "color": "bbbbbb",
+                                "image": {
+                                    "name": "سفید مات",
+                                    "size": 350,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/18/01JK04TQGKARZCTZYSKCF9YN0Y.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929550,
+                                "name": "x1",
+                                "price": 0,
+                                "color": "283037",
+                                "image": {
+                                    "name": "X1",
+                                    "size": 360,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/20/01JK050VSHPVQ1GB12DQ95Y4V2.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929551,
+                                "name": "X2",
+                                "price": 0,
+                                "color": "30333b",
+                                "image": {
+                                    "name": "X2",
+                                    "size": 360,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/21/01JK052RBTRWQTA80WHVFWWNME.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929552,
+                                "name": "X3",
+                                "price": 0,
+                                "color": "333752",
+                                "image": {
+                                    "name": "X3",
+                                    "size": 356,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/22/01JK053ZKNPT5JMEESFG5E0KE0.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929553,
+                                "name": "X4",
+                                "price": 0,
+                                "color": "2e343d",
+                                "image": {
+                                    "name": "X4",
+                                    "size": 362,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/23/01JK055DV6C1E4HPRGKY7ERF56.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.40"
+                            },
+                            {
+                                "id": 15929554,
+                                "name": "X5",
+                                "price": 0,
+                                "color": "4c5d61",
+                                "image": {
+                                    "name": "X5",
+                                    "size": 362,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/24/01JK056H27SPENZXBHM955CRZB.webp"
+                                },
+                                "map": null,
+                                "metalness": "0.10",
+                                "roughness": "0.10"
+                            }
+                        ]
+                    },
+                    "default_material": {
+                        "id": 12359235,
+                        "name": "مشکی مات اونلو",
+                        "price": 10000,
+                        "color": "161616",
+                        "image": {
+                            "name": "مشکی مات اونلو",
+                            "size": 346,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/14/01JK0423JPQES1K4QJK3F9PGBN.webp"
+                        },
+                        "map": null,
+                        "metalness": "0.00",
+                        "roughness": "0.50"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "object_2",
+                    "material_category_id": 9740734,
+                    "default_material_id": 12359226,
+                    "material_category": {
+                        "id": 9740734,
+                        "name": "فلز",
+                        "materials": [
+                            {
+                                "id": 12359222,
+                                "name": " استیل نقره ای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "metalbrush_ic",
+                                    "size": 1936,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/26/01JK06CGTADTCA91A93QZHDQDK.webp"
+                                },
+                                "map": {
+                                    "name": "steel copy1",
+                                    "size": 135682,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/313/01JMPPHJXVQYX19G22FRXSV6K6.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.60"
+                            },
+                            {
+                                "id": 12359225,
+                                "name": " استیل طلاای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "goldbrush_IC",
+                                    "size": 3472,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/28/01JK06H3BQK58CP114PGXE3Z66.webp"
+                                },
+                                "map": {
+                                    "name": "goldbrush",
+                                    "size": 160410,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/27/01JK06H38XDA7J7VPN536BFG8J.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.05"
+                            },
+                            {
+                                "id": 12359226,
+                                "name": " استیل مشکی خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "blackbrush_IC",
+                                    "size": 2414,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/30/01JK06QH0V0YNBR8VYA6P3WQRR.webp"
+                                },
+                                "map": {
+                                    "name": "blackbrush_1",
+                                    "size": 28274,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/323/01JMQ9PVD6A1AMKYQJR35RFYPG.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            },
+                            {
+                                "id": 15929564,
+                                "name": "استیل آبی",
+                                "price": 0,
+                                "color": null,
+                                "image": {
+                                    "name": "abi steel- icon",
+                                    "size": 904,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/325/01JMWG4XA1199Q7V2TS0ZT9703.webp"
+                                },
+                                "map": {
+                                    "name": "abi steel",
+                                    "size": 143058,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/324/01JMWG4X4T6PYDESA9PW4V8E1F.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            }
+                        ]
+                    },
+                    "default_material": {
+                        "id": 12359226,
+                        "name": " استیل مشکی خش دار",
+                        "price": 10000,
+                        "color": null,
+                        "image": {
+                            "name": "blackbrush_IC",
+                            "size": 2414,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/30/01JK06QH0V0YNBR8VYA6P3WQRR.webp"
+                        },
+                        "map": {
+                            "name": "blackbrush_1",
+                            "size": 28274,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/323/01JMQ9PVD6A1AMKYQJR35RFYPG.webp"
+                        },
+                        "metalness": "0.80",
+                        "roughness": "0.30"
+                    }
+                }
+            ]
+        },
+        "DoorHandle3D": {
+            "name": "HL-01",
+            "price": 0,
+            "image": {
+                "name": "handle_ext_01_icon",
+                "size": 810,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/5/01JJWB5SJ17NJEBFPGA600EMTP.webp"
+            },
+            "glb_file": {
+                "name": "handle_ext_01_l",
+                "size": 4168,
+                "mime_type": "model/gltf-binary",
+                "url": "https://backdoor.storage.c2.liara.space/6/01JJWB5SKF59AJVP8T8M6V282N.glb"
+            },
+            "ao_file": null,
+            "id": 15929559,
+            "objects": [
+                {
+                    "id": 17,
+                    "name": "object_1",
+                    "material_category_id": 9740734,
+                    "default_material_id": 12359222,
+                    "material_category": {
+                        "id": 9740734,
+                        "name": "فلز",
+                        "materials": [
+                            {
+                                "id": 12359222,
+                                "name": " استیل نقره ای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "metalbrush_ic",
+                                    "size": 1936,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/26/01JK06CGTADTCA91A93QZHDQDK.webp"
+                                },
+                                "map": {
+                                    "name": "steel copy1",
+                                    "size": 135682,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/313/01JMPPHJXVQYX19G22FRXSV6K6.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.60"
+                            },
+                            {
+                                "id": 12359225,
+                                "name": " استیل طلاای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "goldbrush_IC",
+                                    "size": 3472,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/28/01JK06H3BQK58CP114PGXE3Z66.webp"
+                                },
+                                "map": {
+                                    "name": "goldbrush",
+                                    "size": 160410,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/27/01JK06H38XDA7J7VPN536BFG8J.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.05"
+                            },
+                            {
+                                "id": 12359226,
+                                "name": " استیل مشکی خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "blackbrush_IC",
+                                    "size": 2414,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/30/01JK06QH0V0YNBR8VYA6P3WQRR.webp"
+                                },
+                                "map": {
+                                    "name": "blackbrush_1",
+                                    "size": 28274,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/323/01JMQ9PVD6A1AMKYQJR35RFYPG.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            },
+                            {
+                                "id": 15929564,
+                                "name": "استیل آبی",
+                                "price": 0,
+                                "color": null,
+                                "image": {
+                                    "name": "abi steel- icon",
+                                    "size": 904,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/325/01JMWG4XA1199Q7V2TS0ZT9703.webp"
+                                },
+                                "map": {
+                                    "name": "abi steel",
+                                    "size": 143058,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/324/01JMWG4X4T6PYDESA9PW4V8E1F.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            }
+                        ]
+                    },
+                    "default_material": {
+                        "id": 12359222,
+                        "name": " استیل نقره ای خش دار",
+                        "price": 10000,
+                        "color": null,
+                        "image": {
+                            "name": "metalbrush_ic",
+                            "size": 1936,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/26/01JK06CGTADTCA91A93QZHDQDK.webp"
+                        },
+                        "map": {
+                            "name": "steel copy1",
+                            "size": 135682,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/313/01JMPPHJXVQYX19G22FRXSV6K6.webp"
+                        },
+                        "metalness": "0.80",
+                        "roughness": "0.60"
+                    }
+                }
+            ]
+        },
+        "DoorEye3D": null,
+        "DoorLocke3D": {
+            "name": "Lock_01",
+            "price": 0,
+            "image": {
+                "name": "lock_01",
+                "size": 3112,
+                "mime_type": "image/webp",
+                "url": "https://backdoor.storage.c2.liara.space/3/01JJW9EW520RB1T0RDR9QKT0B7.webp"
+            },
+            "glb_file": {
+                "name": "lock_01_l",
+                "size": 9564,
+                "mime_type": "model/gltf-binary",
+                "url": "https://backdoor.storage.c2.liara.space/4/01JJW9EW7S1WH1QNB2XYYWX93P.glb"
+            },
+            "ao_file": null,
+            "id": 12359247,
+            "objects": [
+                {
+                    "id": 6,
+                    "name": "object_1",
+                    "material_category_id": 9740734,
+                    "default_material_id": 12359222,
+                    "material_category": {
+                        "id": 9740734,
+                        "name": "فلز",
+                        "materials": [
+                            {
+                                "id": 12359222,
+                                "name": " استیل نقره ای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "metalbrush_ic",
+                                    "size": 1936,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/26/01JK06CGTADTCA91A93QZHDQDK.webp"
+                                },
+                                "map": {
+                                    "name": "steel copy1",
+                                    "size": 135682,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/313/01JMPPHJXVQYX19G22FRXSV6K6.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.60"
+                            },
+                            {
+                                "id": 12359225,
+                                "name": " استیل طلاای خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "goldbrush_IC",
+                                    "size": 3472,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/28/01JK06H3BQK58CP114PGXE3Z66.webp"
+                                },
+                                "map": {
+                                    "name": "goldbrush",
+                                    "size": 160410,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/27/01JK06H38XDA7J7VPN536BFG8J.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.05"
+                            },
+                            {
+                                "id": 12359226,
+                                "name": " استیل مشکی خش دار",
+                                "price": 10000,
+                                "color": null,
+                                "image": {
+                                    "name": "blackbrush_IC",
+                                    "size": 2414,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/30/01JK06QH0V0YNBR8VYA6P3WQRR.webp"
+                                },
+                                "map": {
+                                    "name": "blackbrush_1",
+                                    "size": 28274,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/323/01JMQ9PVD6A1AMKYQJR35RFYPG.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            },
+                            {
+                                "id": 15929564,
+                                "name": "استیل آبی",
+                                "price": 0,
+                                "color": null,
+                                "image": {
+                                    "name": "abi steel- icon",
+                                    "size": 904,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/325/01JMWG4XA1199Q7V2TS0ZT9703.webp"
+                                },
+                                "map": {
+                                    "name": "abi steel",
+                                    "size": 143058,
+                                    "mime_type": "image/webp",
+                                    "url": "https://backdoor.storage.c2.liara.space/324/01JMWG4X4T6PYDESA9PW4V8E1F.webp"
+                                },
+                                "metalness": "0.80",
+                                "roughness": "0.30"
+                            }
+                        ]
+                    },
+                    "default_material": {
+                        "id": 12359222,
+                        "name": " استیل نقره ای خش دار",
+                        "price": 10000,
+                        "color": null,
+                        "image": {
+                            "name": "metalbrush_ic",
+                            "size": 1936,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/26/01JK06CGTADTCA91A93QZHDQDK.webp"
+                        },
+                        "map": {
+                            "name": "steel copy1",
+                            "size": 135682,
+                            "mime_type": "image/webp",
+                            "url": "https://backdoor.storage.c2.liara.space/313/01JMPPHJXVQYX19G22FRXSV6K6.webp"
+                        },
+                        "metalness": "0.80",
+                        "roughness": "0.60"
+                    }
+                }
+            ]
+        },
+        "Doorknocker3D": null,
+        "Positions": {
+            "handle": {
+                "x": "-31.17",
+                "y": "107.102",
+                "z": "4.672"
+            },
+            "lock": {
+                "x": "-47.14",
+                "y": "145",
+                "z": "3.151"
+            },
+            "lock_aditional": {
+                "x": "-47.14",
+                "y": "90",
+                "z": "3.151"
+            }
+        }
+    },
+    "version": 0
+}
