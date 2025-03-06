@@ -75,8 +75,9 @@ figure#door_image img {
     display: flex;
 
 }
-.door_info_row:not(.door_info_row.text:last-of-type){
-     border-bottom: 1px solid var(--border-color);   
+
+.door_info_row:not(.door_info_row.text:last-of-type) {
+    border-bottom: 1px solid var(--border-color);
 }
 
 .door_info_row.text {
@@ -98,7 +99,7 @@ figure#door_image img {
 
 .door_info_row.list {
     flex-direction: column;
-    padding:20px 0;
+    padding: 20px 0;
 }
 
 .door_info_row.list ul {
@@ -118,8 +119,23 @@ figure#door_image img {
     border-radius: 8px;
     align-items: center;
 }
-.door_info_row.list ul li img{
+
+.door_info_row.list ul li img {
     width: 70px;
     height: 70px;
     object-fit: cover;
+}
+
+button#download-pdf {
+    position: fixed;
+    left: 10px;
+    z-index: 10;
+    bottom: 10px;
+    background: var(--border-color);
+    border: 1px solid var(--border-color);
+    color: #000;
+    font-family: var(--font);
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
 }
